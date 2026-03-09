@@ -14,7 +14,9 @@
         <sup>2</sup>Zhejiang University
 </p>
 
-
+## Demo
+<video src="https://github.com/user-attachments/assets/f4f2c5c9-26a3-4335-acfc-9fdd4b0266ae" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
+</video>
 
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
