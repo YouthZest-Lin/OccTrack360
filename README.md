@@ -13,3 +13,18 @@
         <sup>1</sup>Hunan University,
         <sup>2</sup>Zhejiang University
 </p>
+
+
+
+## 🤝 Publication:
+Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
+Thanks a lot :)
+
+```
+@article{lin2026occtrack360,
+  title={OccTrack360: 4D Panoptic Occupancy Tracking from Surround-View Fisheye Cameras},
+  author={Yongzhi Lin and Kai Luo and Yuanfan Zheng and Hao Shi and Yang Liu and Kailun Yang},
+  journal={arXiv preprint},
+  year={2026}
+}
+```
