@@ -14,15 +14,11 @@
         <sup>2</sup>Zhejiang University
 </p>
 
+## OccTrack360 [[PDF]](https://arxiv.org/pdf/2603.08521)
+
 ## 🎥 Demo
 <video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
 </video>
-
-
-
-
-
-
 
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
