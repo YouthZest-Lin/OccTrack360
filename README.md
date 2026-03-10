@@ -32,7 +32,7 @@ Thanks a lot :)
 @article{lin2026occtrack360,
   title={OccTrack360: 4D Panoptic Occupancy Tracking from Surround-View Fisheye Cameras},
   author={Yongzhi Lin and Kai Luo and Yuanfan Zheng and Hao Shi and Yang Liu and Kailun Yang},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2603.08521},
   year={2026}
 }
 ```
