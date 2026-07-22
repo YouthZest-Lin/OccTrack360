@@ -25,10 +25,10 @@ Please consider referencing this paper if you use the ```code``` or ```data``` f
 Thanks a lot :)
 
 ```
-@article{lin2026occtrack360,
+@inproceedings{lin2026occtrack360,
   title={OccTrack360: 4D Panoptic Occupancy Tracking from Surround-View Fisheye Cameras},
   author={Yongzhi Lin and Kai Luo and Yuanfan Zheng and Hao Shi and Yang Liu and Kailun Yang},
-  journal={arXiv preprint arXiv:2603.08521},
+  booktitle={2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2026}
 }
 ```
