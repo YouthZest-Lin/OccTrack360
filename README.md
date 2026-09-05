@@ -32,6 +32,30 @@ conda activate FoSOcc
 # PyTorch 1.12.1 + CUDA 11.3
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 ```
+
+Install other dependencies
+
+```sh
+pip install openmim
+mim install mmcv-full==1.6.0
+mim install mmdet==2.28.2
+mim install mmsegmentation==0.30.0
+mim install mmdet3d==1.0.0rc6
+pip install setuptools==59.5.0
+pip install numpy==1.23.5
+pip install yapf==0.40.1
+```
+
+Compile CUDA extensions
+
+```sh
+pip install -v -e . 
+```
+
+###Step 2. Data Preparation
+To evaluate our FoSOcc on TrackOcc-Waymo, you can download the data on Hugging face(https://huggingface.co/datasets/zgchen33/TrackOcc_waymo) 
+
+
 ## 🎥 Demo
 <video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
 </video>
