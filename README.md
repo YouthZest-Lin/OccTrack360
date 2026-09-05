@@ -54,7 +54,7 @@ pip install -v -e .
 
 ### Step 2. Data Preparation
 
-To evaluate our FoSOcc on TrackOcc-Waymo, you can download the data on [Hugging Face](https://huggingface.co/datasets/zgchen33/TrackOcc_waymo).
+To evaluate our FoSOcc on TrackOcc-Waymo, you can download the data on [Hugging Face](https://huggingface.co/datasets/zgchen33/TrackOcc_waymo). And our [OccTrack360 dataset](https://huggingface.co/datasets/YouthZestLin/OccTrack360) will be coming soon.
 
 
 ## 🎥 Demo
