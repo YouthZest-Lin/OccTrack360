@@ -19,7 +19,10 @@
 ## Installation and Data Preparation for FoSOcc
 ### Step 1. Installation
 Clone FoSOcc
-
+```sh
+git clone https://github.com/YouthZest-Lin/OccTrack360
+cd OccTrack360
+```
 ## 🎥 Demo
 <video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
 </video>
