@@ -56,6 +56,8 @@ pip install -v -e .
 
 To evaluate our FoSOcc on TrackOcc-Waymo, you can download the data on [Hugging Face](https://huggingface.co/datasets/zgchen33/TrackOcc_waymo). And our [OccTrack360 dataset](https://huggingface.co/datasets/YouthZestLin/OccTrack360) will be coming soon.
 
+The preparation of TrackOcc-Waymo is the same as [TrackOcc](https://github.com/Tsinghua-MARS-Lab/TrackOcc).
+
 
 ## 🎥 Demo
 <video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
