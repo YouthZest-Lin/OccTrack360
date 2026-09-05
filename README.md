@@ -52,8 +52,9 @@ Compile CUDA extensions
 pip install -v -e . 
 ```
 
-###Step 2. Data Preparation
-To evaluate our FoSOcc on TrackOcc-Waymo, you can download the data on Hugging face(https://huggingface.co/datasets/zgchen33/TrackOcc_waymo) 
+### Step 2. Data Preparation
+
+To evaluate our FoSOcc on TrackOcc-Waymo, you can download the data on [Hugging Face](https://huggingface.co/datasets/zgchen33/TrackOcc_waymo).
 
 
 ## 🎥 Demo
