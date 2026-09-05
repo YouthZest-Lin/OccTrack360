@@ -67,7 +67,7 @@ Download pretrained backbone from [TrackOcc](https://github.com/Tsinghua-MARS-La
 
 
 ## 🙏 Acknowledgement
-This project is not possible without multiple great open-sourced code bases. We list some notable examples below.
+This project is not possible without multiple great open-sourced code bases and papers. We list some notable examples below.
 
 [TrackOcc](https://github.com/Tsinghua-MARS-Lab/TrackOcc)
 
