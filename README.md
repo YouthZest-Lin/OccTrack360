@@ -23,6 +23,14 @@ Clone FoSOcc
 git clone https://github.com/YouthZest-Lin/OccTrack360
 cd OccTrack360
 ```
+
+Create conda environment
+'''sh
+conda create -n FoSOcc python=3.8
+conda activate FoSOcc
+# PyTorch 1.12.1 + CUDA 11.3
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+'''
 ## 🎥 Demo
 <video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
 </video>
