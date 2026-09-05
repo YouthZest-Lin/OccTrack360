@@ -16,6 +16,10 @@
 </p>
 
 ## OccTrack360 [[PDF]](https://arxiv.org/pdf/2603.08521)
+## 🎥 Demo
+<video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
+</video>
+
 ## Installation and Data Preparation for FoSOcc
 ### Step 1. Installation
 Clone FoSOcc
@@ -61,9 +65,6 @@ The preparation of TrackOcc-Waymo is the same as [TrackOcc](https://github.com/T
 ## Training
 Download pretrained backbone from [TrackOcc](https://github.com/Tsinghua-MARS-Lab/TrackOcc) and move it to ```pretrain/xxx.pth``` before you start training. Remember that you need to modify some params of the config file.
 
-## 🎥 Demo
-<video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
-</video>
 
 ## 🙏 Acknowledgement
 This project is not possible without multiple great open-sourced code bases. We list some notable examples below.
