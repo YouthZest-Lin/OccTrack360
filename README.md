@@ -67,11 +67,17 @@ Download pretrained backbone from [TrackOcc](https://github.com/Tsinghua-MARS-La
 
 ## 🙏 Acknowledgement
 This project is not possible without multiple great open-sourced code bases. We list some notable examples below.
+
 [TrackOcc](https://github.com/Tsinghua-MARS-Lab/TrackOcc)
+
 [SSCBench-KITTI360](https://github.com/ai4ce/SSCBench)
+
 [KITTI360](https://github.com/autonomousvision/kitti360Scripts)
+
 [VoxDet](https://github.com/vita-epfl/VoxDet)
+
 [Single View Point Omnidirectional Camera Calibration from Planar Grids(paper)](https://ieeexplore.ieee.org/document/4209702)
+
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
 Thanks a lot :)
