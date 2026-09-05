@@ -16,6 +16,9 @@
 </p>
 
 ## OccTrack360 [[PDF]](https://arxiv.org/pdf/2603.08521)
+## Installation and Data Preparation for FoSOcc
+# Step 1. Installation
+Clone FoSOcc
 
 ## 🎥 Demo
 <video src="https://github.com/user-attachments/assets/aea574e5-3a7b-4ba8-b2cd-791202392e5e" controls="controls" muted="muted" autoplay="autoplay" loop="loop" width="100%">
