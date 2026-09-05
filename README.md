@@ -78,6 +78,8 @@ This project is not possible without multiple great open-sourced code bases. We 
 
 [Single View Point Omnidirectional Camera Calibration from Planar Grids(paper)](https://ieeexplore.ieee.org/document/4209702)
 
+[MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
+
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
 Thanks a lot :)
